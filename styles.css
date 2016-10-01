@@ -1,11 +1,36 @@
+
 body {
-  padding: 5%;
+  padding: 10%;
   background-color: #f3f3f3;
+  margin: 5%;
+  font: 16px sans-serif;
+  word-spacing: inherit;
+  align-content: center;
 }
 
 .gradeBox {
   width: 100%;
   height: 2em;
   background-color: white;
-  margin: 1em 0;
+  margin: 5%;
+  
+}
+h1 {
+    font: 32px sans-serif;
+    font-weight: bold;
+    color:#570158;
+    padding: 1%;
+    text-decoration: underline;
+}
+h2 {
+    font: 26px sans-serif ;
+    color:#570158;
+    padding: 1%;
+    font-weight: normal;
+}
+h3 {
+    font: 26px sans-serif ;
+    color:#570158;
+    padding: 1%;
+    font-weight: normal;
 }
